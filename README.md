@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nilsegn20/)
 
-Me dedico a desarrollar videojuegos porque, claro, ¿por qué no elegir una carrera que requiere saber de arte, programación y lidiar con errores 24/7? Sigo aprendiendo porque rendirse sería demasiado fácil, y aunque a veces parece que nunca lo lograré, aquí estoy, intentando que al menos algo funcione
+Me dedico a desarrollar videojuegos porque, claro, ¿por qué no elegir una carrera que requiere saber de arte, programación y lidiar con errores 24/7? Sigo aprendiendo porque rendirse sería demasiado fácil, y aunque a veces parece que nunca lo lograré, aquí estoy, intentando que siempre funcione.
 
 ## Tecnologías
 <div align="center">  
