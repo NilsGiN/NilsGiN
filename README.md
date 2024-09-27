@@ -9,7 +9,7 @@
 Me dedico a desarrollar videojuegos porque, claro, ¿por qué no elegir una carrera que requiere saber de arte, programación y lidiar con errores 24/7? Sigo aprendiendo porque rendirse sería demasiado fácil, y aunque a veces parece que nunca lo lograré, aquí estoy, intentando que siempre funcione.
 
 ## Tecnologías
-<div align="center">  
+<div>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="Lenguajes/csharp.svg" alt="C#" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="Lenguajes/unity.png" alt="Unity" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="Lenguajes/git.svg" alt="Git" height="50" /></a>  
